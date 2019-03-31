@@ -1,2 +1,2 @@
 # elastic_api_lib
-some DSL apis for elasticsearch
+Some DSL APIs for Elasticsearch
